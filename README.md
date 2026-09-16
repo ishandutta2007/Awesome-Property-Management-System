@@ -9,10 +9,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="#-saas-hosted-platforms"><img src="https://img.shields.io/badge/SaaS%20Platforms-10-blue?style=for-the-badge&logo=cloud" alt="SaaS Platforms"></a>
   <a href="#-open-source-github-projects"><img src="https://img.shields.io/badge/Open--Source%20Repos-6-brightgreen?style=for-the-badge&logo=github" alt="Open Source Repos"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Property-Management-System/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Property-Management-System?style=for-the-badge&logo=github&color=gold" alt="GitHub Stars"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="License"></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -31,7 +33,9 @@ Whether you are an independent landlord, a large enterprise property manager, or
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [📊 Market Insights & Industry Overview](#-market-insights--industry-overview)
 - [🛠️ How to Contribute](#️-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⚠️ Disclaimer](#️-disclaimer)
+- [📈 Star History](#-star-history)
 
 ---
 
@@ -91,11 +95,29 @@ Contributions are welcome and greatly appreciated! 🤝
 
 ---
 
+## 💖 Support & Sponsorship
+
+Thank you for exploring and supporting this curated resource! 🙏
+
+If you find this list helpful, please consider **starring (⭐)** the repository, **forking (🍴)** it, or **sharing** it with fellow property managers, software engineers, and PropTech enthusiasts.
+
+If you'd like to support ongoing development, curation, and open-source contributions, you can buy me a coffee via my sponsor dashboard:
+
+👉 **[Sponsor & Buy a Coffee on GitHub Sponsors](https://github.com/sponsors/ishandutta2007)**
+
+---
+
 ## ⚠️ Disclaimer
 
 - This repository is a **community-curated list** for informational and educational purposes only.
 - Mention of commercial SaaS tools or open-source projects does not constitute an official endorsement or recommendation.
 - Property Management Systems handle confidential data, financial transactions, and personal tenant information. Ensure compliance with local housing laws, privacy acts (GDPR/CCPA), and financial security standards.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Property-Management-System&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Property-Management-System&type=date&legend=top-left)
 
 ---
 
