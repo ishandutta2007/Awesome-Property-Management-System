@@ -12,7 +12,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="#-saas-hosted-platforms"><img src="https://img.shields.io/badge/SaaS%20Platforms-10-blue?style=for-the-badge&logo=cloud" alt="SaaS Platforms"></a>
   <a href="#-open-source-github-projects"><img src="https://img.shields.io/badge/Open--Source%20Repos-6-brightgreen?style=for-the-badge&logo=github" alt="Open Source Repos"></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Property-Management-System/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Property-Management-System?style=for-the-badge&logo=github&color=gold" alt="GitHub Stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Property-Management-System/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Property-Management-System?style=for-the-badge&logo=github&color=gold" alt="GitHub_Stars"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="License"></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -71,7 +71,7 @@ Below is a curated comparison of leading property management SaaS platforms, sor
 
 Explore top open-source property management systems, frameworks, and modules on GitHub, sorted by **Star Count (Descending)**:
 
-| Repository & Link | Stars Badge | Tech Stack / License | Description & Use Case |
+| Repository & Link | Stars_Badge | Tech Stack / License | Description & Use Case |
 | :--- | :--- | :--- | :--- |
 | **[microrealestate/microrealestate](https://github.com/microrealestate/microrealestate)** | [![Stars](https://img.shields.io/github/stars/microrealestate/microrealestate?style=social&color=white)](https://github.com/microrealestate/microrealestate/stargazers) | JavaScript / MIT | Complete self-hosted open-source property management platform for independent landlords to manage rents, leases, and properties. |
 | **[java110/MicroCommunity](https://github.com/java110/MicroCommunity)** | [![Stars](https://img.shields.io/github/stars/java110/MicroCommunity?style=social&color=white)](https://github.com/java110/MicroCommunity/stargazers) | Java / Apache-2.0 | Full-featured community and property management system for apartment complexes, smart residential communities, and property services. |
